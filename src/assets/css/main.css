@@ -82,7 +82,7 @@ html {
 }
 
 body {
-  background: grey; /*var(--backgroundColor); */
+  background: var(--backgroundColor); 
   color: var(--textColor);
   font-family: var(--bodyFont);
   font-weight: 400;
